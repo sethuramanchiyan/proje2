@@ -1,0 +1,158 @@
+nav
+{
+    display: flex;
+    background-color: hsl(212.73deg 9.4% 22.94%);
+    width: 100%;
+    padding: 12px 16px;
+    height: 40px;
+    align-items: center;
+    display: flex;
+    box-sizing: border-box;
+}
+body
+{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+i
+{
+    color: hsl(212.73deg 4.89% 44.12%);
+}
+ul
+{
+    display: flex;
+    list-style-type: none;
+    padding-top: 5px;
+}
+h1
+{
+    font-weight: 500;
+}
+.hello
+{
+    font-size: 40px;
+}
+.link
+{
+    color: rgba(255,255,255,.5);
+}
+.disabled
+{
+color: rgba(255,255,255,.25);
+}
+.dropdown
+{
+color: rgba(255,255,255,.5);
+}
+form
+{
+    padding-top: 10px;
+}
+li
+{
+    color: white;
+    margin-right: 10px;
+}
+h2
+{
+    color: white;
+    display: inline-block;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-right: 16px;
+    font-size: 18px;
+    margin-left: 15px;
+    font-weight: 500;
+}
+.navbar2
+{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+input
+{
+    padding: 6px 12px;
+    border-radius: 4px;
+    color: #495057;
+    background-color: #fff;
+    font-size: 16px;
+    border: 1px solid #ced4da;
+}
+button
+{
+    color: #28a745;
+    background-color: transparent;
+    border: 1px solid #28a745;
+    padding: 6px 12px;
+    border-radius: 4px;
+    font-size: 16px;
+    margin-top: 5px;
+
+}
+.learn
+{
+    float: left;
+    background-color: hsl(210.61deg 98.41% 49.22%);
+    color: white;
+    border-color: hsl(210.61deg 98.41% 49.22%);
+    border-radius: 5px;
+    padding: 5px;
+
+}
+.one
+{
+   
+    margin-top: 20px;
+    height: 250px;
+    background-color: hsl(205.71deg 17.95% 92.35%);
+    margin-left: 150px;
+    margin-right: 50px;
+}
+.ex
+{
+    display: flex;
+    width: 100%;
+background-color: hsl(205.71deg 17.95% 92.35%);
+padding-bottom: 40px;
+
+}
+.box
+{
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+    margin-top: 10px;
+    margin-left: 150px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+    border-bottom:1px solid hsl(205.71deg 17.95% 92.35%);
+}
+h1
+{
+    margin-bottom: 0;
+}
+.boxone
+{
+    width: 40%;
+    margin-right: 40px;
+    box-sizing: border-box;
+}
+.boxone p
+{
+    margin-top: 0;
+}
+.top
+{
+    float: left;
+    background-color: hsl(208.42deg 8.09% 46.08%);
+    color: white;
+    margin-bottom: 15px;
+}
+section
+{
+    margin-left: 200px;
+    margin-right: 150px;
+}
+

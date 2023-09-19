@@ -1,0 +1,187 @@
+
+header
+{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid hsl(220, 6%, 90%);
+    align-items: center;
+}
+body
+{
+    padding: 0;
+    margin: 0;
+}
+.black, .box, h1
+{
+    font-family: serif;
+}
+.black p, strong
+{
+    font-family: sans-serif;
+}
+
+.blue h1
+{
+    margin-bottom: 10px;
+}
+header, ul
+{
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: 530;
+}
+.name
+{
+    margin: 0 200px;
+}
+p, button
+{
+    color: hsl(210deg 5.93% 53.73%);
+}
+p
+{
+    font-size: 18px;
+}
+
+button
+{
+    border: 2px solid hsl(210deg 4.08% 80.78%);
+    border-radius: 3px;
+    margin-left: 15px;
+    padding: 5px;
+    background-color: transparent;
+}
+ul
+{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    color: hsl(210deg 5.93% 53.73%);
+    margin-left: -30px;
+}
+.black
+{
+    height: 320px;
+    width: 100%;
+    background-color: hsl(210deg 10.34% 22.75%);
+    color: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-sizing: border-box;
+    
+}
+.black h1
+{
+    font-size: 40px;
+    font-family: serif;
+}
+.black p
+{
+    width: 52%;
+    line-height: 1.5;
+}
+.blue
+{
+    margin-left: 20px;
+
+}
+.black
+{
+    padding-bottom: 50px;
+}
+.box
+{
+    display: flex;
+    margin-top: 20px;
+    width: 100%;
+    justify-content: space-between;
+    box-sizing: border-box;
+
+}
+.boxone
+{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid hsl(240deg 5.26% 96.27%);
+    width: 48%;
+    height: 220px;
+    box-sizing: border-box;
+    margin-right: 30px; 
+    box-shadow: 1px 1px 1px hsl(240deg 5.26% 96.27%);   
+}
+.boxtwo
+{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid hsl(240deg 5.26% 96.27%);
+    width: 48%;
+    height: 220px;
+    box-sizing: border-box;    
+    box-shadow: 1px 1px 1px hsl(240deg 5.26% 96.27%);   
+}
+.boxone h2
+{
+    color: hsl(210deg 5.93% 53.73%);
+    font-size: 25px;
+}
+.boxtwo h2
+{
+    color: hsl(210deg 5.93% 53.73%);
+    font-size: 25px;
+}
+small
+{
+    color: hsl(210deg 5.93% 53.73%);
+}
+.two
+{
+    padding: 20px 0;
+    margin-left: 20px;
+    box-sizing: border-box;
+    height: 220px;
+}
+
+.two span
+{
+    margin-top: 5px;
+    padding-top: 10px;
+
+}
+.two h2
+{
+    margin: 0;
+    font-family: serif;
+}
+.two p
+{
+    font-family: sans-serif;
+    font-size: 13px;
+    font-weight: 550;
+}
+.two strong
+{
+    margin-bottom: 5px;
+}
+span
+{
+    color: hsl(212deg 100% 50%);
+}
+.thumbnail
+{
+    background-color: hsl(205.71deg 3.95% 34.71%);
+    width: 200px;
+    color: hsl(180deg 3.23% 93.92%);
+    text-align: center;
+    margin-left: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+section
+{
+    color: green;
+}
+.white
+{
+    width: 250px;
+}

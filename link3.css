@@ -1,0 +1,175 @@
+
+.signup
+{
+    color: hsl(212.86deg 100% 83.53%);
+    border:1px solid hsl(212.86deg 100% 83.53%);
+    background-color: white;
+    padding: 8px;
+    border-radius: 5px;
+}
+body
+{
+    font-family: sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h3
+{
+    width: 70%;
+    font-weight: 300;
+}
+.company
+{
+    display: flex;
+}
+header
+{
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid hsl(220deg 10.34% 94.31%);
+    box-shadow: 2px 2px hsl(220deg 10.34% 94.31%);
+    padding: 0 0 0 30px;
+}
+
+p, h1
+{
+    text-align: center;
+    font-weight: 500;
+}
+header li
+{
+    margin-right: 10px;
+}
+.box
+{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    box-sizing: border-box;
+    
+}
+.one
+{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, .03);
+    border-bottom: 1px soli rgba(0, 0, 0, .125);
+    padding: 12px 20px;
+   
+
+
+}
+.six
+{
+    padding: 20px;
+    text-align: center;
+    box-sizing: border-box;
+}
+.li
+{
+    display: flex;
+    list-style-type: none;
+    font-size: 14px;
+    font-weight: 900;
+    
+}
+.container
+{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid rgba(0, 0, 0, .125);
+    width: 20%;
+    border-radius: 5px;
+    text-align: center;
+    margin-right: 30px;
+    font-weight: 540;
+    font-size: 15px;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, .05);
+    line-height: 1.5;
+
+}
+.list
+{
+    list-style: none;
+    margin-left: -33px;
+}
+.bod
+{
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.bod p
+{
+    line-height: 1.5;
+}
+span
+{
+    color: hsl(205.71deg 3.95% 34.71%);
+    font-weight: 500;
+}
+
+h2
+{
+    text-align: center;
+    margin: 0;
+    font-size: 30px;
+}
+.put1
+{
+    padding: 10px 60px;
+    color: hsl(211.06deg 100% 50%);
+    border-color: hsl(211.06deg 100% 50%);
+    background-color: white;
+    border-radius: 5px;
+}
+.put2
+{
+   
+    padding: 10px 60px;
+    background-color: hsl(211.06deg 100% 50%);
+    color: white;
+    border-radius: 5px;
+    border-color: hsl(211.06deg 100% 50%);
+}
+.box2
+{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+footer
+{
+
+}
+.foot
+{
+    display: flex;
+    flex-direction: row;
+    width: 65%;
+    justify-content: space-around;
+    margin-left: 300px;
+}
+li
+{
+    list-style-type: none;
+}
+hr
+{
+    margin-left: 230px;
+    margin-right: 230px;
+}
+img
+{
+    width: 35px;
+    height: 35px;
+}
+.eagle
+{
+    margin-left: 250px;
+
+}
